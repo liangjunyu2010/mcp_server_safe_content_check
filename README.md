@@ -2,6 +2,10 @@
 
 本代码仓库包含一个 MCP 服务器，它提供对[百度云大模型内容安全](https://cloud.baidu.com/doc/AIGC_SEC/s/qlxblhd5j)功能的访问。
 
+<a href="https://glama.ai/mcp/servers/@liangjunyu2010/mcp_server_safe_content_check">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@liangjunyu2010/mcp_server_safe_content_check/badge" alt="Baidu Cloud AI Content Safety Server MCP server" />
+</a>
+
 ## 前提条件
 
 在使用百度云大模型内容安全MCP Server之前，请确保你具备以下条件：
