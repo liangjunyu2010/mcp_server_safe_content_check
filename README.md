@@ -70,7 +70,7 @@ uv run src/mcp_server_safe_content_check/server.py
 
 ### 输入检测操作
 
-- `input_analyze`: 创建一个新的Database
+- `input_analyze`: 检测输入内容
 
   - 参数：
     - `text`: 输入的文本内容
